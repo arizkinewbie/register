@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "arizkinewbie",
+    "email": "me@arizkinewbie.com"
+  },
+  "records": {
+    "NS": [
+      "ns1.example.com",
+      "ns2.example.com"
+    ]
+  }
+}
